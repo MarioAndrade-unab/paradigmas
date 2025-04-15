@@ -74,11 +74,8 @@ void Alumno::responderPrueba(GestorPreguntas* gestorPreguntas, GestorPruebas* ge
         cout << "Su respuesta: ";
         cin.ignore();
         getline(cin, respuesta);
-
-        cout<<"respuesta correcta: "<<preguntas[i].getSolucion()<<endl;
         
         if (respuesta == preguntas[i].getSolucion()) {                    // Verificar si la respuesta es correcta y actualizar el puntaje
-            cout << "Respuesta correcta!\n";
             puntajeTotal += 1;
         }
 
