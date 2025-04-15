@@ -1,0 +1,31 @@
+¿Es la Tierra redonda?;0;0;2;Verdadero;2025;Geografía
+¿Qué es la fotosíntesis?;1;1;3;Proceso biológico mediante el cual las plantas convierten la luz solar en energía;2024;Biología
+¿Quién escribió "Cien años de soledad"?;2;1;4;Gabriel García Márquez;2025;Literatura
+¿Qué es el capitalismo?;3;1;5;Un sistema económico basado en la propiedad privada y la libre competencia;2025;Economía
+¿Cuál es el elemento químico con símbolo O?;0;0;1;Oxígeno;2025;Química
+¿Cuál es la capital de Francia?;0;0;1;París;2024;Geografía
+¿Qué es un ecosistema?;1;1;3;Conjunto de organismos vivos que interactúan con su entorno físico;2020;Biología
+¿Cuál es la raíz cuadrada de 16?;2;1;2;4;2025;Matemáticas
+¿Cuál es el río más largo del mundo?;0;0;2;Amazonas;2025;Geografía
+¿Quién pintó la Mona Lisa?;0;0;1;Leonardo da Vinci;2024;Arte
+¿Cuál es el resultado de 12 + 15?;2;1;1;27;2025;Matemáticas
+¿Es la gravedad la fuerza que atrae los objetos hacia el centro de la Tierra?;0;0;2;Verdadero;2024;Física
+¿Cuál es el órgano encargado de bombear la sangre en el cuerpo humano?;1;1;3;El corazón;2025;Biología
+¿Qué significa la palabra "epistemología"?;1;1;4;El estudio del conocimiento y su justificación;2024;Filosofía
+¿Quién fue el primer presidente de Estados Unidos?;0;0;2;George Washington;2024;Historia
+¿Qué es un polímero?;1;1;4;Un compuesto de alta masa molecular formado por la unión de monómeros;2025;Química
+¿Cuál es la fórmula química del agua?;0;0;1;H2O;2020;Química
+¿Cuál es la lengua oficial de Brasil?;0;0;1;Portugués;2025;Geografía
+¿Es el sol una estrella?;0;0;2;Verdadero;2025;Astronomía
+¿Qué es un átomo?;1;1;3;La unidad básica de la materia;2025;Química
+¿Cuál es la distancia entre la Tierra y el Sol?;1;1;4;Aproximadamente 150 millones de kilómetros;2024;Astronomía
+¿Quién fue Albert Einstein?;2;1;5;Un físico teórico famoso por la teoría de la relatividad;2024;Ciencia
+¿Qué es la revolución industrial?;3;1;6;Un período de grandes cambios en la industria y la tecnología en el siglo XIX;2025;Historia
+¿Cuál es el principal gas responsable del efecto invernadero?;1;1;4;El dióxido de carbono (CO2);2025;Ciencias Ambientales
+¿Cuál es la fórmula del área de un triángulo?;2;1;2;A = (base * altura) / 2;2025;Matemáticas
+¿Qué es la teoría de la evolución?;1;1;4;La teoría que explica el cambio de las especies a través del tiempo por selección natural;2024;Biología
+¿Cuál es la capital de Japón?;0;0;1;Tokio;2025;Geografía
+¿Cuál es la distancia entre dos puntos en una recta?;2;1;3;La diferencia entre sus coordenadas;2025;Matemáticas
+¿Qué es el concepto de democracia?;1;1;4;Un sistema político en el que el poder reside en el pueblo;2025;Ciencias Políticas
+¿Quién es el autor de "1984"?;2;1;4;George Orwell;2024;Literatura
+¿Cuál es el principal componente del aire?;0;0;2;Nitrógeno;2025;Química
