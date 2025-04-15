@@ -1,3 +1,10 @@
+Alumnos:
+José Antonio Serrano Contreras
+Mario Andres Andrade Muñoz 
+
+Profesor: Jerry Jesús Peña Morales
+Paradigmas de Programación
+
 1. Introducción
 El sistema desarrollado aborda la necesidad de gestionar pruebas y preguntas en un entorno educativo, facilitando la interacción entre profesores y alumnos. La motivación principal es automatizar y simplificar el proceso de creación, administración y resolución de evaluaciones.
 
